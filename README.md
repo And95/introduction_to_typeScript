@@ -26,16 +26,12 @@ URL: https://intro-typescript-api.vercel.app
 
 Content-Type: application/json
 
+
 Body da Requisição:
 - Envie um objeto JSON com os seguintes campos:
-
 {
-
 "name": "André",
-
 "age": 30,
-
 "email": "andre_teste@gmail.com"
-
 }
 
