@@ -3,6 +3,7 @@ Introdução ao TypeScript
 Descrição: Criação de API utilizando os médodos GET e POST
 
 Este endpoint retorna uma mensagem de saudação com base nos parâmetros de consulta fornecidos.
+
 Método: GET
 URL: https://intro-typescript-api.vercel.app
 
@@ -19,6 +20,7 @@ Exemplo de Requisição GET: https://intro-typescript-api.vercel.app?name=André
 ----------------------------------------------------------------------------------------------
 
 Este endpoint cria um novo usuário e retorna o recurso criado com campos derivados adicionais.
+
 Método: POST
 URL: https://intro-typescript-api.vercel.app
 Content-Type: application/json
