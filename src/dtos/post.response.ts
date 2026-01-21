@@ -3,5 +3,5 @@ export default interface PostResponse {
   name: string;
   email: string;
   isAdult: boolean;
-  dataCadastro: Date;
+  dataRegistration: Date;
 }
