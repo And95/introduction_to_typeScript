@@ -10,7 +10,7 @@ export default class PostHandler {
       name: input.name,
       email: input.email,
       isAdult: IdadeHelper.isAdult(input.age),
-      dataRegistration: DataHelper.obterDataAgora(),
+      registrationDate: DataHelper.obterDataAgora(),
     };
     return response;
   }

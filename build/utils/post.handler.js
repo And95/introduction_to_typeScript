@@ -14,7 +14,7 @@ class PostHandler {
       name: input.name,
       email: input.email,
       isAdult: age_helper_1.default.isAdult(input.age),
-      dataRegistration: date_helper_1.default.obterDataAgora(),
+      registrationDate: date_helper_1.default.obterDataAgora(),
     };
     return response;
   }
