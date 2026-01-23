@@ -4,6 +4,8 @@ Descrição: Criação de API utilizando os médodos GET e POST
 
 Este endpoint retorna uma mensagem de saudação com base nos parâmetros de consulta fornecidos.
 
+----------------------------------------------------------------------------------------------
+
 Método: GET
 URL: https://intro-typescript-api.vercel.app
 
